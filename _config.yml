@@ -1,1 +1,24 @@
+# Site settings
+title: Assistant Professor John Doe
+description: Welcome to the website of Assistant Professor John Doe.
+
+# Build settings
 theme: minima
+markdown: kramdown
+
+# Default layout for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"  # Specify the default layout for pages
+
+# Permalink structure
+permalink: /:title/   # Customize permalink structure for pages
+
+# Collections (optional)
+collections:
+  research:
+    output: true
+    permalink: /research/:title/   # Customize permalink structure for research pages
