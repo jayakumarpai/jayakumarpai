@@ -3,6 +3,7 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I am a faculty member at School of Computing at Amrita Vishwa Vidyapeetham University, Amritapuri Campus, Kerala, India. I am interested in designing efficient, or approximation algorithms  for combinatorial optimizations problems.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I did my PhD form Amrita University in the year 2022. I have been very fortunate to have been advised by Dr Bhadrachalam Chitturi, University of Texas at Dallas, and Dr Rajan Sundaravaradhan, Amrita University, Inida. 
+
